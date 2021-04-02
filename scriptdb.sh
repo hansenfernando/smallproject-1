@@ -7,7 +7,7 @@ sudo apt-get update
 echo "=================================="
 echo "Installing MySQL Server           "
 echo "=================================="
-sudo apt-get install mysql-server
+sudo apt-get install mysql-server -y
 echo "=================================="
 echo "MySQL is ready to serve..........."
 echo "=================================="
